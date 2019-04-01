@@ -1,0 +1,42 @@
+h1 {
+	font-size: 1.5em;
+	line-height: 1.05em;
+}
+h2  {
+	font-size: 1.275em;
+	line-height: 1.05em;
+}
+h3 {
+	font-size: ;
+}
+h4{
+	font-size: ;
+}
+
+body {
+	font-size: 1em;
+	line-height: 1.375em;
+}
+
+
+h1, h2 {
+	text-align: center;
+}
+
+#intro {
+	/*background-color: red;*/
+}
+
+.post {
+/*	position: relative;
+	padding: 20px;
+	flex-basis: auto;*/
+	background-color: pink;
+}
+#logo {
+	/*height:40px;*/
+}
+
+.holder {
+	/*padding:50px;*/
+}
