@@ -27,8 +27,8 @@ h1, h2, h3 {
 .holder {
 	/*padding:50px;*/
 }
-button {
-/*	justify:center;*/
+.button {
+    /*background-color: red;*/
 }
 
 .section-boxed {
@@ -59,4 +59,26 @@ button {
 }
 .mycard:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.center {
+    text-align: center;
+}
+
+.table {
+    background-color: rgba(0,0,0,0.0);
+      margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+    text-align:center;
+}
+#footer-style {
+    background-color: rgba(11,245,15,0.1);
+}
+
+
+.brands .column {
+  padding: 80px 0 0 0;
 }
