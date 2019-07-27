@@ -60,7 +60,7 @@ body, div{
     transition:0.4s;
 }
 .nav-items:hover {
-    background:#ffe442;
+    background:rgba(50, 234, 109, 0.88);
     color: #350e8e;
     border-radius:20px;
 }
