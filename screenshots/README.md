@@ -16,3 +16,5 @@
 -[Source](https://ikraamg.github.io/Mint-SignUp-Replica/)
 -[image screenshot]()
 -[PDF screenshot]()
+
+10 html projects for beginners to practice.
